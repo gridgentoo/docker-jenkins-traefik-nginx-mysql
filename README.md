@@ -1,3 +1,9 @@
+## Load Balancers для систем оркестрации  
+https://habr.com/ru/post/441534/  
+
+## Traefik 2.0: обновление service mesh с поддержкой TCP и новым веб-интерфейсом  
+https://habr.com/ru/company/flant/news/t/468029/  
+
 # Docker-Jenkins-Traefik-Nginx-MySQL-PHP-Lumen Bootstrap
 
 Scaffolding project to bootstrap for new PHP / Lumen microservice with MySQL running on Nginx with Traefik, Jenkinsfile for CI and Docker / testing scripts.
